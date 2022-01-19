@@ -1,0 +1,10 @@
+	INSTALLATION PROCEDURE
+
+
+Install python and my sql from the web.
+Open mysql and create the database bank
+Then run the table.py  file.
+Next run the user_table.py file.
+Then the transactions_table.py file .
+Open the main bank file.
+Then register your account.
